@@ -1,0 +1,21 @@
+Invoicing
+https://www.caseware.com/support/caseknowledge/the-six-types-of-invoices
+=================================
+    *   Intermin invoices from work in Progress(WIP)
+        -   are used to generate invoices without relieving any time or 
+            expenses from WIP
+    *   Final invoices(WIP)
+        -   from WIP are used to releive time or expenses from WIP
+    *   Proposed Invoices(WIP)
+        -   are normally crated for review an dapproval purposes only.  Once approved, a proposed
+            invoice can be changed to an interim or final invoice
+    *   Miscellaneous invoices
+        -   are used to bill clients outside of WIP
+            (i.e. when there are no time or expense entries from which to bill
+            the client)
+    *   Interest invoices
+        - used to charge clients for over due invoices
+        (likely this needs to be worked into the contract)
+        
+    *   Recuring invoices
+        -   to do batch billing for charges incurred on a regular basis
