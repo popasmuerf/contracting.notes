@@ -1,4 +1,5 @@
 Invoicing
+https://www.caseware.com/support/caseknowledge/the-six-types-of-invoices
 =================================
     *   Intermin invoices from work in Progress(WIP)
         -   are used to generate invoices without relieving any time or 
@@ -16,4 +17,5 @@ Invoicing
         - used to charge clients for over due invoices
         (likely this needs to be worked into the contract)
         
-    *   Recuring invokces
+    *   Recuring invoices
+        -   to do batch billing for charges incurred on a regular basis

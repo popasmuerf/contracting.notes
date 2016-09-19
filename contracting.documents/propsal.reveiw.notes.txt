@@ -1,0 +1,40 @@
+
+https://www.pandadoc.com/software-development-proposal-template
+
+What to expect
+=================================================
+
+I will need to provide the following
+--------------------------------------------------------
+    -   Inclusion of Project Overview
+    -   Obstacles
+    -   System architecture
+    -   Technology Requirements(software and hardware)
+    -   Milestones (including Man Hours)
+    -   Deployment and testing
+    -   Documentation, Warreanty, Support Training
+    -   Pricing, payment terms
+    -   Contract details
+    
+    
+Inclusion of Project Overview and Obstacles
+=================================================    
+Include a detialed descripton of the project
+stating :
+
+    -   Aims
+    -   Scope
+    -   Intended operation
+    -   Design process
+    -   Functionality(feature set)
+    -   Technology involed in implimentation of design
+    -   Details pertaining to distribution of software
+    -   Software user capacity
+    -   IP Ownership
+    -   Testing
+    -   Support warranty
+    
+    
+    
+Obstacles
+=================================================  
