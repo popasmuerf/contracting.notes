@@ -34,7 +34,142 @@ stating :
     -   Testing
     -   Support warranty
     
+  
+  
+Hardware
+=====================================================
+List hardware proposed for this project.
+This includes any IaaS, or on prem virtualization/IaaS
+Mobile, embedded/appliance hardware is also included here.
+Be explicite...even though Apple's crap is x86/64...make
+sure to mention this(both client and server, network nodes, etc)
+
+
+
+Software
+=======================================================
+List all software technologies that will be
+used in the development of the propsed
+software as well as all software that will be
+integreated with the system, fore ache one
+try to explain why it was chosen.  For Example
+"MS Office which is the industry-standard word processing
+and spreadsheet software." and "Software coded in Java EE
+is a future-proof language which runs in a VM and so can be implemented
+easily across platforms including new hardware architectures".
+Where there is a choice of equally valid software
+technologies you should list the options
+Note:Propreitary technology is not furture proof.  It will discontinue
+as soon or shortly after the owner of the IP decides it is no longer in its
+interest to support said IP.
     
     
 Obstacles
-=================================================  
+=================================================
+Include here your description of what you currently
+conscider the possible risks involved in the software
+development and thought about how you will 
+managethen.  The aim here is to provide the impression
+that you are under control and as positive as possible,
+while providing a realistic  assessment of any and all concerns.
+For each obstical or risk, or problme, explain why 
+it is not a major issue and outline how your company plans
+to mitigatte the risks( here function point analyiss may 
+seem appropiate here...)  
+
+Technical obsticals
+-------------------------------------------------------
+This section includes possible issues regarding 
+integration of different systems, and again...an explination
+of technology that would mitigate the risks involved.
+Again...be positive but clear
+
+
+Industry and Market Risks
+-----------------------------------------------------------
+This may include technology that is becomming outmoded
+during development or after launch or a decrease in 
+the userbase of a core poart of the software (i.e. FaceBook
+apps are dependeant upon Facebook users).  For each
+risk explain about mitigation through best practice
+development, future-proofing and, if applicable, modular
+developement(This is all largely an issue of perception.....does
+it really matter at this point if the tech is still en-vouge or not?  Only that
+it is extant, and supported in the foreseeable future)
+
+Budgetary Risks
+-------------------------------------------------------------------
+This section would include missed deadlines and project
+budget overruns.  Explain here how milestone and reporting 
+processes will mitigate this risk(Agile iterrative development
+with FULL stake-holder involvement...only in the usuability
+and acceptance prototyping and testing...they have NO say
+in the implimenation)
+
+Note:  A SWOT(Strengths Weaknesses Opprotunities)  analysis might be in order here....
+
+
+
+Milestones and Reporting
+=======================================================================
+This area is one which will be very specific tot he project you are creating
+but please see the below example which shows the common stages:
+
+
+1. Analysis
+2. Development
+3. Testing
+4. Deployment
+5. Training
+
+Milestone           Tasks                          Reporting    Hrs     Date                 
+------------------------------------------------------------------------
+1.1                 Analysis and design stage,      None        20
+                    gather data and
+                    create system mock-up
+------------------------------------------------------------------------
+1.2                Architecture design             None          4    
+                    create system mock-up
+------------------------------------------------------------------------
+1.3                 Design work plan(task dist)    Review
+                    to dev teams                   with client  10
+------------------------------------------------------------------------
+2.1                 Create Database                None         5
+------------------------------------------------------------------------
+2.2                 Import existing client data    None         4
+------------------------------------------------------------------------
+2.3                 Clean data                     None         5
+------------------------------------------------------------------------
+2.5                 Create GUI                     Client       30
+                                                    meeting
+                                                   sign-off
+------------------------------------------------------------------------
+2.5                 Inegration with
+                    Outlook                        None         10
+------------------------------------------------------------------------
+2.7                 Integration with
+                    mobile infrastructure          Email
+                                                   report       20
+-------------------------------------------------------------------------
+2.8                 Port to iPhone
+                    Enviroment                      None        20
+-------------------------------------------------------------------------
+3.1                 Alpha testing desktop
+                    application                     Email
+                    (closed)                        report      25
+-------------------------------------------------------------------------- 
+4.1                 Open Beta                       Client      22
+                    (volunteer employees)           meeting
+--------------------------------------------------------------------------
+4.2                 Deployment to                   Client      16
+                    smartphones                     meeting 
+--------------------------------------------------------------------------
+5.1                 Inhouse training                Client      16
+                                                    meeting
+--------------------------------------------------------------------------
+5.2                 AdHoc Training                  None        4
+
+
+
+
+
