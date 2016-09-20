@@ -167,9 +167,80 @@ Milestone           Tasks                          Reporting    Hrs     Date
 5.1                 Inhouse training                Client      16
                                                     meeting
 --------------------------------------------------------------------------
-5.2                 AdHoc Training                  None        4
+5.2                 AdHoc Training                  None        1.1                 
+                    Analysis and design stage,
+                    gather data and
+                    create system mock-up
+--------------------------------------------------------------------------
 
 
 
 
+Deployment
+============================================================================
+The software will be distributed in the following manner(s) that could include:
 
+    *   DVD
+    *   download from repository
+    *   flash driver(like usb or portable HD)
+Be sure to mention how bug fixes and feature additions will be distributed
+
+
+
+Testing
+=============================================================================
+The testing process shall be as follows:
+
+    *   Closed Alpha
+        -   Four developers, part time for two weeks
+    *   Open Beta
+        -   Desktop and Smartphone Ten users(volunteers fora  month
+    *   Stress testing
+        - Open to all
+
+Documentation
+=============================================================
+    *   Architecute patterns
+    *   user guide
+    *   Programmers guide(If any)
+
+
+Warranty
+=============================================================
+Software is "AS IS" motherfuckers.   
+
+
+Support
+=============================================================
+Support package offered(to be offered at a monthly fee)
+
+    *   terms of support
+    *   etc
+    
+Training
+==============================================================
+    * proposed training 
+
+Pricing
+=============================================================
+    *   From start to completion
+    *   Table of hourly rates of different professionals if need be
+    
+Payment Terms
+================================================================
+    We propose the following payment terms...
+    This largely depnes on your relationshp with the
+    client and to a cerain exten the 
+    type of project you are contemplating...examples below:
+    
+    
+    25%  - paidon exceptiance of this proposal and signing of dev agreement
+    25%(%50) - paid at completion of Mileston 1
+    25%(%75) - paid at completion of Mileston 2
+    15%(%90) - paid at completion of Mileston 3
+    10%(%100) - paid at completion of Mileston 4
+    
+    
+Contact info
+=============================================================
+Self explanitory
